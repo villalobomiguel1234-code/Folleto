@@ -98,7 +98,7 @@
 
   <header>
     <h1>Folleto Digital - Café del Bosque</h1>
-    <p>Sabores naturales, aroma irresistible ☕</p>
+    <p>Sabores naturales, aroma irresistible </p>
   </header>
 
   <main>
